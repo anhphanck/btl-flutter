@@ -81,7 +81,7 @@ B2: clone code về
 
 B3: Chạy terminal "flutter run --no-sound-null-safety"
 
-B4: Run chạy code trên web
+B4: Run chạy code trên app
 
 Cách sử dụng:
 
