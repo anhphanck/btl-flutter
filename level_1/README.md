@@ -92,14 +92,23 @@ Thêm, chỉnh sửa hoặc xóa nhiệm vụ bằng giao diện ứng dụng.
 Đăng xuất bằng cách sử dụng tùy chọn menu.
 
 Màn hình đăng nhập:
+
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/553f4fbf-3bea-4296-83ed-6dd1a93993cc)
+
 Màn hình Đặt lại mật khẩu:
+
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/1bb5554b-e0b3-4401-a09b-a44d1e6c261c)
+
 Màn hình đăng ký:
+
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/dca01b1c-83d8-4a24-9c72-ee8839a1a921)
+
 Màn hình chính:
+
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/d92443c5-082e-4d9c-9483-61fdf4912e24)
+
 Màn hình cập nhập dữ liệu:
+
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/cfd14765-9892-46e4-afaf-dde9fd72a399)
 Màn hình tạo dữu liệu:
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/c56292dd-d3d3-4bda-a948-fc2fec3737bc)
