@@ -11,6 +11,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các phần 
 
   + Flutter
   + Firebase
+
 ** Cấu trúc thư mục:
 
     lib: Chứa mã nguồn của ứng dụng.
