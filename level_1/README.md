@@ -1,17 +1,17 @@
 ** Danh Bạ Nghề Nghiệp❤️ Made with Flutter **
 
-* Giới thiệu:
+** Giới thiệu:
 
  Danh Bạ Nghề Nghiệp là một ứng dụng danh sách tên người và công việc của họ đơn giản được xây dựng bằng Flutter và Firebase. Nó cho phép người dùng tạo, chỉnh 
  sửa, xóa cập nhập các tác vụ. Ứng dụng sử dụng Firebase để xác thực và lưu trữ đám mây.
 
-* Điều kiện tiêu quyết:
+** Điều kiện tiêu quyết:
 
 Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các phần sau:
 
   + Flutter
   + Firebase
-* Cấu trúc thư mục:
+** Cấu trúc thư mục:
 
   lib: Chứa mã nguồn của ứng dụng.
   data: Chứa các lớp và logic liên quan đến dữ liệu.
@@ -24,7 +24,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các phần 
   edit_task_screen.dart: Màn hình để sửa tên công việc.
   main.dart: Nơi chính để khởi tạo ứng dụng và xác định các màn hình cơ bản.
  
-* Các thư viện sử dụng:
+** Các thư viện sử dụng:
 
  Material.dart Thư viện này cung cấp nhiều widget và chủ đề thiết kế Material Design mà bạn có thể sử dụng để xây dựng giao diện người dùng.
  firebase_auth: Chức năng Firebase Authentication là dịch vụ xác thực người dùng của Firebase. Trong ToDoFlutter, được sử dụng để đăng nhập và đăng ký người dùng.
@@ -33,16 +33,16 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các phần 
  cloud_firestore: Chức năng Firebase Cloud Firestore là một cơ sở dữ liệu NoSQL thời gian thực của Firebase. Trong ToDoFlutter, được sử dụng để lưu trữ và đồng 
  bộ dữ liệu công việc giữa các thiết bị.
 
-* Các bước quan trọng:
+** Các bước quan trọng:
 
- Xác Thực Người Dùng: Sử dụng Firebase Auth để đăng nhập và đăng ký người dùng.
- Quên mật khẩu: Cho phép người dùng lấy lại mật khẩu của mình
- Lưu Trữ Dữ Liệu: Lưu trữ danh sách thông tin cục bộ và sử dụng Cloud Firestore để lưu trữ trên đám mây.
- Cập Nhật Giao Diện Người Dùng: Sử dụng StreamBuilder để theo dõi thay đổi trong danh sách công việc và cập nhật giao diện người dùng một cách tự động.
- Thêm Thông tin: Cho phép người dùng thêm thông tin và đồng bộ ngay lập tức với Cloud Firestore.
- Sửa Tên Thông tin: Cho phép người dùng sửa tên công việc và đồng bộ ngay lập tức với Cloud Firestore.
- Xóa Thông tin: Cho phép người dùng xóa công việc và đồng bộ ngay lập tức với Cloud Firestore.
- Chức năng tìm kiếm theo tên người dùng: giúp người dùng nhanh chóng tìm và truy xuất thông tin cụ thể về một cá nhân trong danh sách, nâng cao hiệu quả và trải 
++ Xác Thực Người Dùng: Sử dụng Firebase Auth để đăng nhập và đăng ký người dùng.
++ Quên mật khẩu: Cho phép người dùng lấy lại mật khẩu của mình
++ Lưu Trữ Dữ Liệu: Lưu trữ danh sách thông tin cục bộ và sử dụng Cloud Firestore để lưu trữ trên đám mây.
++ Cập Nhật Giao Diện Người Dùng: Sử dụng StreamBuilder để theo dõi thay đổi trong danh sách công việc và cập nhật giao diện người dùng một cách tự động.
++ Thêm Thông tin: Cho phép người dùng thêm thông tin và đồng bộ ngay lập tức với Cloud Firestore.
++ Sửa Tên Thông tin: Cho phép người dùng sửa tên công việc và đồng bộ ngay lập tức với Cloud Firestore.
++ Xóa Thông tin: Cho phép người dùng xóa công việc và đồng bộ ngay lập tức với Cloud Firestore.
++ Chức năng tìm kiếm theo tên người dùng: giúp người dùng nhanh chóng tìm và truy xuất thông tin cụ thể về một cá nhân trong danh sách, nâng cao hiệu quả và trải 
  nghiệm sử dụng ứng dụng.
 
 Chi tiết các bước:
@@ -73,7 +73,7 @@ Sử dụng Firebase Auth để xác thực người dùng.
 Tạo các phương thức đăng nhập, đăng ký và đăng xuất.
 Hiển thị các màn hình tương ứng dựa trên trạng thái xác thực.
 
-* Người khác có thể mở rộng:
+** Người khác có thể mở rộng:
 
 Nhắc Nhở: Thêm tính năng nhắc nhở cho các thông tin cần thiết.
 Chia Sẻ Danh bạ: Cho phép người dùng chia sẻ công việc với người khác.
@@ -89,7 +89,7 @@ B3: Chạy terminal "flutter run --no-sound-null-safety"
 
 B4: Run chạy code trên app
 
-Cách sử dụng:
+** Cách sử dụng:
 
 Khởi chạy ứng dụng trên trình mô phỏng hoặc thiết bị vật lý.
 Đăng ký tài khoản mới hoặc đăng nhập bằng tài khoản hiện có.
