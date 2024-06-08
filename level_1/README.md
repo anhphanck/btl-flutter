@@ -110,9 +110,14 @@ Màn hình chính:
 Màn hình cập nhập dữ liệu:
 
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/cfd14765-9892-46e4-afaf-dde9fd72a399)
+
 Màn hình tạo dữu liệu:
+
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/c56292dd-d3d3-4bda-a948-fc2fec3737bc)
+
 Màn hình firebase Authentication:
+
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/040a1452-9b03-4245-ad86-cb14d38b02c7)
+
 Màn hình firebase Cloud Firestore:
 ![image](https://github.com/anhphanck/btl-flutter/assets/139940254/93d1c89f-db99-4503-b9e3-940420a302e8)
